@@ -20,3 +20,4 @@ This repository documents my learning from the **Defensive Security Intro** room
 ## Next Steps
 - Explore advanced defensive rooms
 - Document SIEM hands-on labs# Defensive-Security-Intro
+> Updated on Jan 21, 2026 — first commit for contributions graph.
